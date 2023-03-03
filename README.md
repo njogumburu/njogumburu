@@ -2,7 +2,7 @@
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate on anything
-- 📫 You can reach me on twitter @njogu_robin
+- 📫 You can reach me on twitter @WidRobin
 
 <!---
 njogumburu/njogumburu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
